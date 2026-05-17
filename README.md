@@ -56,14 +56,12 @@ I'm a data professional who lives at the intersection of **analytics, machine le
 
 ### Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ---
 
@@ -160,9 +158,7 @@ I'm a data professional who lives at the intersection of **analytics, machine le
 ## 📈 What I'm Working On
 
 - 🔭 Building a **customer churn prediction** model with Streamlit deployment
-- 🌱 Learning **MLOps** — model versioning, CI/CD pipelines, and monitoring
 - 📊 Creating a **sales analytics** Power BI dashboard with real-time data
-- 🤖 Exploring **NLP** for text classification use cases
 - 📚 Studying for **Google Data Analytics** / **Microsoft PL-300** certification
 
 ---
